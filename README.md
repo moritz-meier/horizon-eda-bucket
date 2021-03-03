@@ -1,2 +1,2 @@
-# horizon-eda-bucket
-Scoop Bucket for Horizon-EDA
+# Horizon-EDA Scoop Bucket
+Scoop Bucket for [Horizon-EDA](https://github.com/horizon-eda/horizon)
