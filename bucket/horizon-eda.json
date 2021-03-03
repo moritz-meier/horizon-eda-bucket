@@ -1,5 +1,5 @@
 {
-    "version": "1.2.0",
+    "version": "1.4.0",
     "description": "Horizon - A free EDA package",
     "homepage": "https://horizon-eda.org/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/horizon-eda/horizon/releases/download/v1.2.0/horizon-eda-1.2.0-x64.msi",
-            "hash": ""
+            "url": "https://github.com/horizon-eda/horizon/releases/download/v1.4.0/horizon-eda-1.4.0-x64.msi",
+            "hash": "8d8fe966ac27bb682820cb8a41c1e7491cae6f0474f725f7dac37eb6d891b5d7"
         }
     },
     "extract_dir": "PFiles\\Horizon EDA",
